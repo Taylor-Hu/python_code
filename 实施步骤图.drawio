@@ -13,6 +13,15 @@
         <mxCell id="St2iTwc0mr1du7lTxLtr-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="320" width="120" x="550" y="210" as="geometry" />
         </mxCell>
+        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="阶段一：基础部署" vertex="1">
+          <mxGeometry height="30" width="100" x="160" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="阶段二：SSH服务配置" vertex="1">
+          <mxGeometry height="30" width="80" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="阶段三：主机A部署" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
