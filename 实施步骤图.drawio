@@ -7,9 +7,6 @@
         <mxCell id="St2iTwc0mr1du7lTxLtr-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=none;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="290" width="120" x="150" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-18" edge="1" parent="1" source="St2iTwc0mr1du7lTxLtr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="St2iTwc0mr1du7lTxLtr-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="St2iTwc0mr1du7lTxLtr-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="290" width="120" x="350" y="210" as="geometry" />
         </mxCell>
@@ -46,6 +43,9 @@
         <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设置目录权限" vertex="1">
           <mxGeometry height="40" width="100" x="360" y="370" as="geometry" />
         </mxCell>
+        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-22" edge="1" parent="1" source="l9tmZ8lJ_Wz1P9hYmB0v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="l9tmZ8lJ_Wz1P9hYmB0v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="创建启动脚本" vertex="1">
           <mxGeometry height="40" width="100" x="360" y="440" as="geometry" />
         </mxCell>
@@ -61,7 +61,7 @@
         <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="验证连接" vertex="1">
           <mxGeometry height="40" width="100" x="560" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-17" edge="1" parent="1" source="l9tmZ8lJ_Wz1P9hYmB0v-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" target="St2iTwc0mr1du7lTxLtr-2">
+        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-20" edge="1" parent="1" source="l9tmZ8lJ_Wz1P9hYmB0v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.132;entryDx=0;entryDy=0;entryPerimeter=0;" target="St2iTwc0mr1du7lTxLtr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
