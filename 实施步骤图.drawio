@@ -43,7 +43,7 @@
         <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="设置目录权限" vertex="1">
           <mxGeometry height="40" width="100" x="360" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-22" edge="1" parent="1" source="l9tmZ8lJ_Wz1P9hYmB0v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="l9tmZ8lJ_Wz1P9hYmB0v-13">
+        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-22" edge="1" parent="1" source="l9tmZ8lJ_Wz1P9hYmB0v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;strokeWidth=1.5;" target="l9tmZ8lJ_Wz1P9hYmB0v-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="创建启动脚本" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="验证连接" vertex="1">
           <mxGeometry height="40" width="100" x="560" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-20" edge="1" parent="1" source="l9tmZ8lJ_Wz1P9hYmB0v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.132;entryDx=0;entryDy=0;entryPerimeter=0;" target="St2iTwc0mr1du7lTxLtr-2">
+        <mxCell id="l9tmZ8lJ_Wz1P9hYmB0v-20" edge="1" parent="1" source="l9tmZ8lJ_Wz1P9hYmB0v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.132;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#564e4e, #707070);strokeWidth=1.5;" target="St2iTwc0mr1du7lTxLtr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
