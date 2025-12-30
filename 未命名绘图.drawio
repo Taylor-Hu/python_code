@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="-kTjVempSyi2PO9tmtmE">
-    <mxGraphModel dx="1426" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="823" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,14 +19,14 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ebdef0, #ededed);align=left;" value="&lt;h2&gt;&lt;font face=&quot;微软雅黑&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&quot;&gt;工具层&lt;/font&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="120" width="600" x="90" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="run_test,py&lt;br&gt;测试执行入口" vertex="1">
-          <mxGeometry height="60" width="120" x="242" y="90" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="run_test.py&lt;br&gt;测试执行入口" vertex="1">
+          <mxGeometry height="60" width="120" x="245" y="76" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="task/*&lt;br&gt;任务管理" vertex="1">
           <mxGeometry height="60" width="120" x="411" y="90" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="协议处理&lt;br&gt;Protocol" vertex="1">
-          <mxGeometry height="60" width="120" x="191" y="400" as="geometry" />
+          <mxGeometry height="60" width="120" x="208" y="380" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="plc_api.py&lt;br&gt;PLC设备接口" vertex="1">
           <mxGeometry height="60" width="120" x="184" y="257" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry height="60" width="120" x="365" y="252" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="请求处理&lt;br&gt;Request" vertex="1">
-          <mxGeometry height="60" width="120" x="354" y="403" as="geometry" />
+          <mxGeometry height="60" width="120" x="348" y="380" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="响应处理&lt;br&gt;Response" vertex="1">
-          <mxGeometry height="60" width="120" x="498" y="398" as="geometry" />
+          <mxGeometry height="60" width="120" x="488" y="380" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="断言处理&lt;br&gt;Assert" vertex="1">
-          <mxGeometry height="60" width="120" x="213" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="274" y="432" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="报告生成&lt;br&gt;Report" vertex="1">
-          <mxGeometry height="60" width="120" x="374" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="428" y="430" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="models/*&lt;br&gt;数据模型定义" vertex="1">
           <mxGeometry height="60" width="120" x="259" y="588" as="geometry" />
