@@ -7,8 +7,8 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffe5b4, #ededed);strokeWidth=1;align=left;" value="&lt;h2&gt;&lt;font color=&quot;#0f1115&quot; face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(235, 238, 242);&quot;&gt;应用层&lt;/span&gt;&lt;/font&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="120" width="600" x="90" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#b2ebf2, #ededed);align=left;" value="&lt;h2&gt;&lt;font face=&quot;微软雅黑&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&quot;&gt;业务层&lt;/font&gt;&lt;/h2&gt;" vertex="1">
-          <mxGeometry height="120" width="600" x="90" y="220" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#b2ebf2, #ededed);align=left;fontSize=15;" value="&lt;h2&gt;&lt;font face=&quot;微软雅黑&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&quot;&gt;业务层&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="120" width="550" x="90" y="220" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#d5f4e6, #ededed);align=left;" value="&lt;h2&gt;服务层&lt;/h2&gt;" vertex="1">
           <mxGeometry height="120" width="600" x="90" y="370" as="geometry" />
@@ -19,20 +19,20 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ebdef0, #ededed);align=left;" value="&lt;h2&gt;&lt;font face=&quot;微软雅黑&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&quot;&gt;工具层&lt;/font&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="120" width="600" x="90" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="run_test.py&lt;br&gt;测试执行入口" vertex="1">
-          <mxGeometry height="60" width="120" x="245" y="76" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="run_test.py&lt;br&gt;测试执行入口" vertex="1">
+          <mxGeometry height="60" width="120" x="249" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="task/*&lt;br&gt;任务管理" vertex="1">
-          <mxGeometry height="60" width="120" x="411" y="90" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="task/*&lt;br&gt;任务管理" vertex="1">
+          <mxGeometry height="60" width="120" x="442" y="90" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="协议处理&lt;br&gt;Protocol" vertex="1">
           <mxGeometry height="60" width="120" x="208" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="plc_api.py&lt;br&gt;PLC设备接口" vertex="1">
-          <mxGeometry height="60" width="120" x="184" y="257" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;" value="plc_api.py&lt;br&gt;PLC设备接口" vertex="1">
+          <mxGeometry height="60" width="120" x="247" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pri/*&lt;br&gt;私有实现" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="252" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="pri/*&lt;br&gt;私有实现" vertex="1">
+          <mxGeometry height="60" width="120" x="442" y="250" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="请求处理&lt;br&gt;Request" vertex="1">
           <mxGeometry height="60" width="120" x="348" y="380" as="geometry" />
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="config/*&lt;br&gt;全局&amp;amp;接口配置管理" vertex="1">
           <mxGeometry height="60" width="120" x="414" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-30" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.912;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" target="4LgQYdfV6sx6KPvx83AQ-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
