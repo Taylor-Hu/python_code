@@ -34,12 +34,6 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="pri/*&lt;br&gt;私有实现" vertex="1">
           <mxGeometry height="60" width="120" x="365" y="252" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: 100%; line-height: 22px; font-optical-sizing: auto; font-size-adjust: none; font-kerning: auto; font-feature-settings: normal; font-variation-settings: normal; font-language-override: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; background-color: rgb(235, 238, 242); border-radius: 6px; align-items: center; padding: 0px 5px; display: inline-flex; font-size: 0.875em !important;&quot;&gt;utils/*&amp;lt;br&amp;gt;通用工具&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="487" y="717" as="geometry" />
-        </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;ul style=&quot;margin: 4px 0px 0px; padding-left: 18px; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;margin-top: 6px;&quot;&gt;&lt;p class=&quot;ds-markdown-paragraph&quot; style=&quot;margin-top: 0px !important; margin-right: 0px; margin-bottom: 0px; margin-left: 0px;&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: 100%; line-height: 22px; font-optical-sizing: auto; font-size-adjust: none; font-kerning: auto; font-feature-settings: normal; font-variation-settings: normal; font-language-override: normal; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; background-color: rgb(235, 238, 242); border-radius: 6px; align-items: center; padding: 0px 5px; display: inline-flex; font-size: 0.875em !important;&quot;&gt;config/*&amp;lt;br&amp;gt;配置管理&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="657" y="710" as="geometry" />
-        </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="请求处理&lt;br&gt;Request" vertex="1">
           <mxGeometry height="60" width="120" x="354" y="403" as="geometry" />
         </mxCell>
@@ -51,6 +45,15 @@
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="报告生成&lt;br&gt;Report" vertex="1">
           <mxGeometry height="60" width="120" x="374" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="models/*&lt;br&gt;数据模型定义" vertex="1">
+          <mxGeometry height="60" width="120" x="259" y="588" as="geometry" />
+        </mxCell>
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="utils/*&lt;br&gt;通用&amp;amp;接口工具" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="727" as="geometry" />
+        </mxCell>
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="config/*&lt;br&gt;全局&amp;amp;接口配置管理" vertex="1">
+          <mxGeometry height="60" width="120" x="414" y="725" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
