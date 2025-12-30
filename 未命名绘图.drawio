@@ -25,8 +25,8 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="task/*&lt;br&gt;任务管理" vertex="1">
           <mxGeometry height="60" width="120" x="442" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="协议处理&lt;br&gt;Protocol" vertex="1">
-          <mxGeometry height="60" width="120" x="208" y="380" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="协议处理&lt;br&gt;Protocol" vertex="1">
+          <mxGeometry height="50" width="120" x="198" y="377" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;" value="plc_api.py&lt;br&gt;PLC设备接口" vertex="1">
           <mxGeometry height="60" width="120" x="247" y="250" as="geometry" />
@@ -34,17 +34,17 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" value="pri/*&lt;br&gt;私有实现" vertex="1">
           <mxGeometry height="60" width="120" x="442" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="请求处理&lt;br&gt;Request" vertex="1">
-          <mxGeometry height="60" width="120" x="348" y="380" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="请求处理&lt;br&gt;Request" vertex="1">
+          <mxGeometry height="50" width="120" x="350" y="377" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="响应处理&lt;br&gt;Response" vertex="1">
-          <mxGeometry height="60" width="120" x="488" y="380" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="响应处理&lt;br&gt;Response" vertex="1">
+          <mxGeometry height="50" width="120" x="499" y="377" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="断言处理&lt;br&gt;Assert" vertex="1">
-          <mxGeometry height="60" width="120" x="274" y="432" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;imageWidth=21;arcSize=10;" value="断言处理&lt;br&gt;Assert" vertex="1">
+          <mxGeometry height="50" width="120" x="255" y="434" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="报告生成&lt;br&gt;Report" vertex="1">
-          <mxGeometry height="60" width="120" x="428" y="430" as="geometry" />
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" value="报告生成&lt;br&gt;Report" vertex="1">
+          <mxGeometry height="50" width="120" x="426" y="434" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="models/*&lt;br&gt;数据模型定义" vertex="1">
           <mxGeometry height="60" width="120" x="259" y="588" as="geometry" />
