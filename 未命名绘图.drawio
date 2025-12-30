@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-52" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-52" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=filledEdge;strokeColor=light-dark(#524c4c, #ededed);">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="699.9999999999995" y="770" as="targetPoint" />
           </mxGeometry>
@@ -12,7 +12,7 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#ffe5b4, #ededed);strokeWidth=1;align=left;spacingTop=0;spacing=5;" value="&lt;h2&gt;应用层&lt;/h2&gt;" vertex="1">
           <mxGeometry height="100" width="600" x="80" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-46" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-46" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeColor=light-dark(#524c4c, #ededed);">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="649.9999999999995" y="710" as="targetPoint" />
           </mxGeometry>
@@ -23,7 +23,7 @@
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#b2ebf2, #ededed);align=left;fontSize=15;spacingTop=0;spacing=5;" value="&lt;h3&gt;&lt;font face=&quot;微软雅黑&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91&quot;&gt;业务层&lt;/font&gt;&lt;/h3&gt;" vertex="1">
           <mxGeometry height="100" width="500" x="80" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="4LgQYdfV6sx6KPvx83AQ-45" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+        <mxCell id="4LgQYdfV6sx6KPvx83AQ-45" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=wire;dashed=1;strokeColor=light-dark(#524c4c, #ededed);">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="619.9999999999995" y="710" as="targetPoint" />
           </mxGeometry>
