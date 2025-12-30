@@ -20,19 +20,19 @@
           <mxGeometry height="100" width="600" x="92" y="710" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacingTop=0;flipV=1;imageVerticalAlign=top;imageAlign=center;" value="run_test.py&lt;br&gt;测试执行入口" vertex="1">
-          <mxGeometry height="60" width="120" x="249" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="247" y="80" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacingTop=0;" value="task/*&lt;br&gt;任务管理" vertex="1">
-          <mxGeometry height="60" width="120" x="442" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="442" y="80" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;" value="协议处理&lt;br&gt;Protocol" vertex="1">
           <mxGeometry height="50" width="120" x="161" y="392" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=15;spacingTop=0;" value="plc_api.py&lt;br&gt;PLC设备接口" vertex="1">
-          <mxGeometry height="60" width="120" x="247" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="247" y="240" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacingTop=0;" value="pri/*&lt;br&gt;私有实现" vertex="1">
-          <mxGeometry height="60" width="120" x="442" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="442" y="240" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;spacingTop=0;" value="请求处理&lt;br&gt;Request" vertex="1">
           <mxGeometry height="50" width="120" x="310" y="392" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry height="60" width="120" x="247" y="569" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacingTop=0;" value="utils/*&lt;br&gt;通用&amp;amp;接口工具" vertex="1">
-          <mxGeometry height="50" width="120" x="249" y="740" as="geometry" />
+          <mxGeometry height="60" width="120" x="238" y="728" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;spacingTop=0;" value="config/*&lt;br&gt;全局&amp;amp;接口配置管理" vertex="1">
-          <mxGeometry height="60" width="120" x="430" y="728" as="geometry" />
+          <mxGeometry height="60" width="120" x="442" y="730" as="geometry" />
         </mxCell>
         <mxCell id="4LgQYdfV6sx6KPvx83AQ-30" edge="1" parent="1" source="4LgQYdfV6sx6KPvx83AQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.912;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;spacingTop=0;" target="4LgQYdfV6sx6KPvx83AQ-14">
           <mxGeometry relative="1" as="geometry" />
